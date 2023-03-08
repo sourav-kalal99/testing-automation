@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will open web</description>
+   <name>open-web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f71b9be-aae3-4a6a-bd79-ccdaad607a95</testCaseGuid>
+</TestCaseEntity>
