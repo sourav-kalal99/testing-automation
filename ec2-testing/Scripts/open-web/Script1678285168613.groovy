@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+System.setProperty("webdriver.chrome.driver", "drivers/chromedriver")
+WebDriver driver = new ChromeDriver()
 WebUI.openBrowser('https://www.google.com')
 
